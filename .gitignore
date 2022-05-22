@@ -1,2 +1,3 @@
-final_env/
-.vscode/
+**/build/**
+**/.vscode/**
+**/final_env/**
