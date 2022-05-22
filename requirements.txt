@@ -4,3 +4,6 @@ pandas
 matplotlib
 statsmodels
 sklearn
+Pyside2~=5.15
+numpy
+cx_freeze
