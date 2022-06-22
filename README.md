@@ -15,7 +15,7 @@ Based on a predictive model, this application returns the winner of a battle sim
   * 5- Deploy the project using PySide2
 
 # Try it out!
-* The exe file can be seen under 'Releases'
+* The executable file can be located under 'Releases'
  * - Download `exe.win-amd64-3.9.zip`
  * - Extrat all content from `battle simulator`
  
