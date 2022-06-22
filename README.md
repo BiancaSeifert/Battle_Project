@@ -1,9 +1,11 @@
 # Bootcamp_FinalProject
 Concordia bootcamp final project
 
-Title: Who would win?
+#Title
+Battle simulator
 
-Description: Randomly select two characters from the database and predict who would come out victorious
+Project Description
+Based on a predictive model, this application returns the winner of a battle simulator
 
 Tasks:
 
