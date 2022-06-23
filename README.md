@@ -22,8 +22,8 @@ To run from the executable file
  * - Run battle simulator
  
  To run from the source code
- * the source code is located under `Releases`
+ * Clone the repository
   * - Download `Source code (zip)`
-  * - pip install dependencies from requirements.txt
+  * - pip install -r requirements.txt
   * - run app.py
  
