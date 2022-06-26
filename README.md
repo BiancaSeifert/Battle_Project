@@ -17,13 +17,13 @@ Based on a predictive model, this application returns the winner of a battle sim
 # Try it out!
 To run from the executable file
 * The executable file is located under `Releases`
- * - Download `exe.win-amd64-3.9.zip`
- * - Extrat all content from battle simulator
- * - Run battle simulator
+  * Download `exe.win-amd64-3.9.zip`
+  * Extrat all content from battle simulator
+  * Run battle simulator
  
  To run from the source code
  * Clone the repository
-  * - Download `Source code (zip)`
-  * - pip install -r requirements.txt
-  * - run app.py
+   * Download `Source code (zip)`
+   * pip install -r requirements.txt
+   * run app.py
  
